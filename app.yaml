@@ -1,4 +1,6 @@
 runtime: nodejs22
+# ubah sesuai nama dan nim
+service: nama_nim
 
 handlers:
   - url: /.*
