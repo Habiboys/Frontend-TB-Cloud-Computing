@@ -1,7 +1,7 @@
 runtime: nodejs22
 # ubah sesuai nama dan nim
-service: nama_nim
-
+service: namanim
+#contoh:nouvalhabibie2211521020
 handlers:
   - url: /.*
     script: auto
